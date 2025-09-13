@@ -20,6 +20,9 @@ Players can join ongoing sessions anytime, attempt story-based questions, chat w
 - **Runtime Environment:** Node.js
 
 ---
+(Install Node module)
+* Run in backend first with npm app.js
+* Run vite project later- npm run dev
 
 ## 📷 Screenshots (Optional)
 
